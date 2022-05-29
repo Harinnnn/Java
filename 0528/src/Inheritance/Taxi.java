@@ -10,8 +10,22 @@ public class Taxi extends Bus {
         this.meter = meter;
     }
 
-    public void taxiInfo(){
-        super.busInfo();
+    public void setfee(int price){
+        this.fee = fee;
+    }
+    public int getfee() {
+        return this.fee;
+    }
+    public void setNumber(int number){
+        this.number = number;
+    }
+    public int getNumber(){
+        return this.number;
+    }
+
+    @Override
+    public void showInfo(){
+        super.showInfo();
         System.out.println("meter is working." + "(" + this.meter + ")");
     }
 }

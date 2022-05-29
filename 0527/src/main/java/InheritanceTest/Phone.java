@@ -13,6 +13,7 @@ public class Phone extends Computer{
         System.out.println(this.name + " is calling!");
     }
 
+    @Override
     public void showInfo() {
         super.showInfo();
         System.out.println("phone number is " + this.phoneNumber + ".");

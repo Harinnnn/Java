@@ -11,10 +11,10 @@ public class Main {
 
         b2.payTheFee();
 
-        b1.busInfo();
+        b1.showInfo();
 
         Taxi t1 = new Taxi(33333, 5400, 30);
-        t1.taxiInfo();
+        t1.showInfo();
 
     }
 }

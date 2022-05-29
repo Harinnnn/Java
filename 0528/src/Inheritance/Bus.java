@@ -32,7 +32,7 @@ public class Bus {
         System.out.println("A fee of " + fee+"won has been payed.");
     }
 
-    public void busInfo() {
+    public void showInfo() {
         System.out.println("number " + this.number + " bus's fee is " +this.fee+ "won.");
     }
 
