@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/0527/0527.iml" filepath="$PROJECT_DIR$/0527/0527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0528/0528.iml" filepath="$PROJECT_DIR$/0528/0528.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0530 abstract/0530 abstract.iml" filepath="$PROJECT_DIR$/0530 abstract/0530 abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaWorkspace.iml" filepath="$PROJECT_DIR$/.idea/javaWorkspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/templateMethod/templateMethod.iml" filepath="$PROJECT_DIR$/templateMethod/templateMethod.iml" />
+    </modules>
+  </component>
+</project>
